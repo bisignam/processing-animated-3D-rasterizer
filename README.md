@@ -16,4 +16,4 @@ The implemented algorithm works in the following way:
 On top of that the sketch implements what I would call a deformation of the rasterization by cyclically expanding and shrinking the ```z``` value for each cube.
 The expansion/shrinking interval is governed by the variable ```zDepthMod```.
 
-Feel free to clone this project and experiments with different input images and configuration parameters. Happy generative coding!
+Feel free to clone this project and experiment with different input images and configuration parameters. Happy generative coding!
